@@ -21,4 +21,4 @@ Jest
 - Carleton study material
 
   ## LINKS
-  Repository- 
+  Repository- https://github.com/MK0999/logomaker
