@@ -10,6 +10,8 @@ A small bussiness owner can use it to create a logo without paying any fees. It 
 ## WALKTHROUGH VIDEO
 
 ## SCREENSHOTS
+- https://github.com/MK0999/logomaker/blob/main/Examples/Screenshot%20(33).png
+- 
 
 ## TESTS
 Jest
