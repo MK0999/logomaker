@@ -11,8 +11,8 @@ A small bussiness owner can use it to create a logo without paying any fees. It 
 
 ## SCREENSHOTS
 - https://github.com/MK0999/logomaker/blob/main/Examples/Screenshot%20(33).png
-- https://github.com/MK0999/logomaker/blob/main/Examples/Screenshot%20(34).png?raw=true
 - 
+- https://github.com/MK0999/logomaker/blob/main/Examples/Screenshot%20(34).png
 
 ## TESTS
 Jest
