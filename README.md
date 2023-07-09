@@ -9,6 +9,8 @@ A small bussiness owner can use it to create a logo without paying any fees. It 
 
 ## WALKTHROUGH VIDEO
 
+https://drive.google.com/file/d/1rMhzs1PGCewEHiEZUQHILaarhTJg_u9a/view
+
 ## SCREENSHOTS
 - https://github.com/MK0999/logomaker/blob/main/Examples/Screenshot%20(33).png
 - https://github.com/MK0999/logomaker/blob/main/Examples/Screenshot%20(35).png
